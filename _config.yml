@@ -2,7 +2,7 @@
 title: MAKOTO Blog
 SEOTitle: MAKOTO的博客 | MAKOTO Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: yutian821113@gmail.com
 description: "Every failure is leading towards success."
 keyword: "MAKOTO, Django,Python,MacBookPro,Pixel,Google"
 url: "http://makoto82.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/makoto82/makoto82.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/111111.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
