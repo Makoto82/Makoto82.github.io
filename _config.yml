@@ -12,7 +12,7 @@ github_repo: "https://github.com/makoto82/makoto82.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: "https://ws4.sinaimg.cn/large/006tKfTcly1g0zw3fj9exj30u00u01ky.jpg"     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "https://ws3.sinaimg.cn/large/006tKfTcly1g1ir0yclqfj30u00u0jro.jpg"     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
